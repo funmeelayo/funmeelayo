@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.behance.net/elizabethagunroye](https://www.behance.net/elizabethagunroye)
 
-- 📝 I regularly write articles on [Stay tuned for this](Stay tuned for this)
+- 📝 I regularly write articles on [Stay tuned for this]
 
 - 💬 Ask me about **Design , Public health and Education**
 
@@ -23,7 +23,7 @@
 
 - 📄 Know about my experiences [https://www.figma.com/file/WQZshM0onLLLz61nxSItvK/Elizabeth-Agunroye-CV?type=design&node-id=0%3A1&mode=design&t=AqYiqVJ8Cr4VQ4yS-1](https://www.figma.com/file/WQZshM0onLLLz61nxSItvK/Elizabeth-Agunroye-CV?type=design&node-id=0%3A1&mode=design&t=AqYiqVJ8Cr4VQ4yS-1)
 
-- ⚡ Fun fact **I actually think I am funny. Also, I sometimes forget my age and have to count back from my birth year**
+- ⚡ Fun fact **I sometimes forget my age and have to count back from my birth year**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

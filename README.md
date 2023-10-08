@@ -1,6 +1,6 @@
 [![MasterHead](https://media.licdn.com/dms/image/D4D16AQEgU5OVbfc06g/profile-displaybackgroundimage-shrink_350_1400/0/1672020200959?e=1701907200&v=beta&t=ltStY14Zliny82Bo0_y0By6UBR6SxSmcalN6DlCBvQ4)]
 <h1 align="center">Hi 👋, I'm Elizabeth Agunroye</h1>
-<h3 align="center">The blend of design, psychology, and research, is a realm I thrive in. I fondly refer to it as my "blue flame." Here, research ignites the heat giving insights and data that power the entire process. psychology fuels motivation and understanding and design breathes life providing the necessary creative and practical elements. This mix creates a unique & unparalleled user experience.</h3>
+<h3 align="center"> I am a user experience and user interface designer.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=funmeelayo&label=Profile%20views&color=0e75b6&style=flat" alt="funmeelayo" /> </p>

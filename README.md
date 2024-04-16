@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/ee_oh_ey" target="blank"><img src="https://img.shields.io/twitter/follow/ee_oh_ey?logo=twitter&style=for-the-badge" alt="ee_oh_ey" /></a> </p>
 
-- 🔭 I’m currently working on **Building a user-centered website for Sciafrika**
+- 🔭 I **Build user-centered and visually appealing interfaces that align with business goals**
 
-- 🌱 I’m currently learning **how to code using HTML,CSS and Javascript. I am taking it a step at a time**
+- 🌱 I’m currently learning **how to code using HTML,CSS and Javascript.**
 
 - 👯 I’m looking to collaborate on **Projects that take me out of my comfort zone just so users can be in their comfort zone**
 
